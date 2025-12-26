@@ -22,4 +22,4 @@ System.out.println("boolean="+bool);
 }
 ```
 # OUTPUT
-![output of primitive data types](exp1 (2).png)
+![output of primitive data types](exp1.png)
